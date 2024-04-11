@@ -46,7 +46,7 @@ Es el complemento perfecto para el transportista, siendo la empresa que realiza 
 <br>
 
 <br>
-<h2 align="center">💬 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 💬</h2>
+<h2 align="center">💬 𝓒𝓸𝓷𝓽𝓪𝓬𝓽𝓸 💬</h2>
 <p align="center"> 
 
 <div align="center">
