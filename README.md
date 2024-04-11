@@ -50,13 +50,13 @@ Es el complemento perfecto para el transportista, siendo la empresa que realiza 
 <p align="center"> 
 
 <div align="center">
-  <a href="www.facebook.com/GrupoRagaOficial/">
+  <a href="www.facebook.com/GrupoRagaOficial/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" rel="noopener noreferrer">
   </a>
-  <a href="href="mailto:contacto@raga.com.mx">
+  <a href="href="mailto:contacto@raga.com.mx" target="_blank">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank" rel="noopener noreferrer">
   </a>
-  <a href="https://github.com//Grupo-Raga">
+  <a href="https://github.com//Grupo-Raga" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white'" target="_blank" rel="noopener noreferrer">
   </a>
   <br>
