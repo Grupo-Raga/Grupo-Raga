@@ -9,7 +9,6 @@
 <h2 align="center">~ 🌐 𝓑𝓲𝓮𝓷𝓿𝓮𝓷𝓲𝓭𝓸𝓼 𝓪 𝓖𝓻𝓾𝓹𝓸 𝓡𝓪𝓰𝓪 ¡𝓢𝓲𝓰𝓪𝓷 𝓪𝓵 𝓛í𝓭𝓮𝓻! 🌐 ~</h2>
 
 <br>
-<a href="https://github.com/lSukiChanl"><img align="right" width="125" src="https://raw.githubusercontent.com/lSukiChanl/lSukiChanl/main/Menhera1.png"></a>
 <p align="justify"> 
 Empezamos a formar parte del giro llantero y de servicios de mantenimiento automotriz en el año 1983. Desde Monterrey Nuevo León, comenzamos con el sueño de dejar nuestra huella en la industria desde una pequeña vulka que se localizaba en la avenida Lázaro Cárdenas.39 años después llenos de pasión por el trabajo, Grupo Raga ha logrado constituirse en 3 empresas, cada una innovando y creciendo en su respectivo mercado.
 <br><br>
@@ -45,8 +44,6 @@ Es el complemento perfecto para el transportista, siendo la empresa que realiza 
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQLServer" width="54" height="54" style="vertical-align:top; margin:4px;">
 </p>
 <br>
-
-
 
 <br>
 <h2 align="center">💬 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 💬</h2>
