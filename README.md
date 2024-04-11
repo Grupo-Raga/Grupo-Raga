@@ -53,7 +53,7 @@ Es el complemento perfecto para el transportista, siendo la empresa que realiza 
   <a href="https://www.facebook.com/GrupoRagaOficial/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" rel="noopener noreferrer">
   </a>
-<a href="[https://www.facebook.com/GrupoRagaOficial/](https://www.instagram.com/grupo_raga/)" target="_blank">
+<a href="https://www.instagram.com/grupo_raga/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noopener noreferrer">
   </a>
 <a href="https://api.whatsapp.com/send/?phone=8130870417" target="_blank">
